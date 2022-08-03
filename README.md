@@ -1,4 +1,4 @@
-# Mysticat | Webspeech API
+# Mysticat | Web Speech API
 
 Tests using this API which allows fine control and flexibility over speech recognition features in Chrome version 25 and later. Text can be recognized appearing almost immediately as you speak. [Options to record voice, stop recording, download text, clear textarea].
 
