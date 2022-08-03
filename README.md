@@ -1,6 +1,6 @@
 # Mysticat | Webspeech API
 
-Tests using this API which allows fine control and flexibility over speech recognition features in Chrome version 25 and later. Text can be recognized appearing almost immediately as you speak.
+Tests using this API which allows fine control and flexibility over speech recognition features in Chrome version 25 and later. Text can be recognized appearing almost immediately as you speak. [Options to record voice, stop recording, download text, clear textarea].
 
 <table>
   <tr>
@@ -8,6 +8,7 @@ Tests using this API which allows fine control and flexibility over speech recog
     <td valign="top"><img src="https://user-images.githubusercontent.com/88943961/182529559-23a9a6fa-5907-418b-9833-a2863d11ff76.png"/></td>
   </tr>
 </table>
+
 
 ## Run Locally
 
