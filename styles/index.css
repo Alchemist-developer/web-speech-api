@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-@import url('/styles/body.css');
 @import url('/styles/container.css');
 @import url('/styles/textarea.css');
 @import url('/styles/button.css');
@@ -8,11 +7,21 @@
     font-family: roboto;
 }
 
+body {
+    background-color: #121212;
+}
+
 img {
     height: 300px;
 	width: 600px;
    object-fit: cover;
    object-position: center;
+   margin-top: 10px;
+   transition: 0.6s;
+}
+
+img:hover {
+    opacity: 0.2;
 }
 
 @media screen and (max-width: 600px) {
