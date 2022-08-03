@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('/styles/body.css');
+@import url('/styles/container.css');
+@import url('/styles/textarea.css');
+@import url('/styles/button.css');
+
+* {
+    font-family: roboto;
+}
+
+img {
+    height: 300px;
+	width: 600px;
+   object-fit: cover;
+   object-position: center;
+}
+
+@media screen and (max-width: 600px) {
+    img {
+        height: 200px;
+        width: 400px;
+    }
+}
